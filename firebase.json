@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "dist/primeng/browser",
+    "public": "public",
     "ignore": [
       "firebase.json",
       "**/.*",
